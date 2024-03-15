@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+
+/* Navbar */
+.navbar-container{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgba(0, 0, 0 , 0.6);
+    padding: 20px;
+    box-shadow:0px 4px 4px rgba(0, 0, 0 , 0.25);
+}
+
+.navbar-container, ul {
+    display: flex;
+    list-style: none;
+}
+
+.navbar-container, ul, li {
+    text-transform: uppercase;
+    margin-right: 40px;
+    color: white;
+    letter-spacing: 0.1rem
+}
+
+
+/* Showcase */
