@@ -1,0 +1,25 @@
+@media (max-width: 1024px) {
+  .navbar-container {
+    display: none;
+  }
+
+  .showcase-container h1 {
+    font-size: 3rem;
+    text-align: center;
+    line-height: 3.3rem;
+  }
+
+  .showcase-container p {
+    font-size: 0.975rem;
+    text-align: center;
+    margin-top: 15px;
+  }
+
+  .about-me-content {
+    flex-direction: column;
+  }
+
+  .skills-content {
+    flex-direction: column;
+  }
+}
