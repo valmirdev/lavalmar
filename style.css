@@ -168,19 +168,19 @@ li {
 }
 
 .project-item-1 {
-  background-image: url(/images/project-1.jpg);
+  background-image: url(images/project-1.jpg);
 }
 
 .project-item-2 {
-  background-image: url(/images/project-2.jpg);
+  background-image: url(images/project-2.jpg);
 }
 
 .project-item-3 {
-  background-image: url(/images/project-3.jpg);
+  background-image: url(images/project-3.jpg);
 }
 
 .project-item-4 {
-  background-image: url(/images/project-4.jpg);
+  background-image: url(images/project-4.jpg);
   background-position: center;
 }
 
