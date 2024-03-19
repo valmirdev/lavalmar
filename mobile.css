@@ -10,16 +10,64 @@
   }
 
   .showcase-container p {
-    font-size: 0.975rem;
+    font-size: 0.875rem;
     text-align: center;
     margin-top: 15px;
   }
 
   .about-me-content {
     flex-direction: column;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .about-me-content img {
+    width: 200px;
+    height: 200px;
+    margin: 0;
+  }
+
+  .about-me-content p {
+    font-size: 0.875rem;
+    text-align: center;
+    margin-top: 15px;
   }
 
   .skills-content {
+    margin-top: 40px;
     flex-direction: column;
+  }
+
+  .skills-content .skill-item:nth-child(2) {
+    margin-bottom: 40px;
+    margin-top: 40px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .skill-item {
+    padding: 30px;
+  }
+
+  .skill-item img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .skill-item p {
+    font-size: 0.875rem;
+  }
+
+  .skill-item span {
+
+  }
+
+  /*utilities*/
+  .section-title {
+    font-size: 2rem;
+  }
+
+  .section-container {
+    padding: 30px;
   }
 }
