@@ -53,7 +53,7 @@ li {
   justify-content: center;
   background-color: red;
   color: white;
-  background-image: url("/portfolio-codeclub/images/Prancheta\ 3.png");
+  background-image: url("/images/Prancheta\ 1.png");
   background-size: cover;
   background-position: center;
 
@@ -174,19 +174,19 @@ li {
 }
 
 .project-item-1 {
-  background-image: url(/portfolio-codeclub/images/bikcraft2.png);
+  background-image: url(/images/bikcraft.png);
 }
 
 .project-item-2 {
-  background-image: url(/portfolio-codeclub/images/doutor-estranho.png);
+  background-image: url(/images/doutor-estranho.png);
 }
 
 .project-item-3 {
-  background-image: url(/portfolio-codeclub/images/portfolio.png);
+  background-image: url(/images/portfolio.png);
 }
 
 .project-item-4 {
-  background-image: url(/portfolio-codeclub/images/thor.png);
+  background-image: url(images/thor.png);
   background-position: center;
 }
 
